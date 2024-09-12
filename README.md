@@ -1,2 +1,12 @@
-# Leonard_Rillorta.github.io
-This is Leonard P. Rillorta From BSIT2-06 2nd Year
+<!DOCTYPE html>
+<head>
+<title>LEonard Portfolio</title>
+</head>
+
+<body>
+	<h1>
+		LEONARD P. RILLORTA
+	</h1>
+	<h2>BSIT2-06</h2>
+
+	</body>
